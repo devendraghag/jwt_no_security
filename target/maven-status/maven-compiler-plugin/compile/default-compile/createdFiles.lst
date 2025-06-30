@@ -1,0 +1,5 @@
+com\example\jwtdemo\service\JwtService.class
+com\example\jwtdemo\controller\AuthController.class
+com\example\jwtdemo\JwtDemoApplication.class
+com\example\jwtdemo\model\User.class
+com\example\jwtdemo\util\JwtUtil.class
